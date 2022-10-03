@@ -11,7 +11,6 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 * Link Python to the database by creating an SQLAlchemy session. 
 
 
-
 ### Precipitation Analysis
 
 * Start by finding the most recent date in the data set.
